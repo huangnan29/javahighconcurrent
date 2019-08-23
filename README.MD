@@ -50,8 +50,21 @@
 
 ​           Gustafson定律关心的是如果可被串行化的代码所占比重足够多，那么加速比就能随着CPU数量增长。
 
-
-
+参考文章重点
+1.Linus Torvalds忘掉该死的并行
+http://www.csdn.net/article/2015-01-08/2823487-linus-the-whole-parallel-computing-is-the-future-is-a-bunch
+http://www.realworldtech.com/forum/?threadid=146066&curpostid=146227
+2.关于唐纳德
+http://blog.sciencenet.cn/blog-1225851-840243.html
+3.有关摩尔定律失效
+http://blog.csdn.net/hsutter/article/details/1136281
+4.有关并发级别
+http://concurrentfreaks.blogspot.hk/2013/05/lock-free-and-wait-free-definition-and.html
+http://chuansong.me/n/862673
+5.有关JMM
+http://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html#jls-17.4
+6.有关指令重排序
+<计算机体系结构> 浙江大学出版社 石教英等编著。
 ## 第二章 Java并行程序基础
 
 
